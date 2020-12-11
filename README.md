@@ -9,7 +9,7 @@ The 2nd example is the border when unmaximized showing a square icon indicating 
 
 
 INSTALLATION:
-Copy the AKorange folder into ~/.themes folder for personal use.
+Copy the AKorange folder into ~/.themes folder for personal use.  Create ~/.themes if not there already.
 Copy to /usr/share/themes for global use.
 Use cinnamon-settings: Settings->Themes to select this theme for borders.
 
